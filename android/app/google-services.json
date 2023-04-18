@@ -1,0 +1,194 @@
+{
+  "project_info": {
+    "project_number": "54675965409",
+    "project_id": "cloudfunctions-b7d1b",
+    "storage_bucket": "cloudfunctions-b7d1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54675965409:android:44cde932aeabbcd040bea0",
+        "android_client_info": {
+          "package_name": "com.example.mediq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54675965409-4ms2hq3dfsos16q9b4r5127tqq45rml1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediq",
+            "certificate_hash": "738af253c7e4bc7f5385e5fa1e7eafdfcb48d249"
+          }
+        },
+        {
+          "client_id": "54675965409-7tkh43vstm7es5pk47e7fcqqnu9imu6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediq",
+            "certificate_hash": "99629efc6553d39c1f7b917a03abf4002736722c"
+          }
+        },
+        {
+          "client_id": "54675965409-jdi17eg6u381gek2ttuvas6plmm4j9ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediq",
+            "certificate_hash": "f8f4dd1205c0067f0b06de76a176aee69934218f"
+          }
+        },
+        {
+          "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvriLvaSuJjhQThy8Wx0a1Q6g7ALNtBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54675965409-gvimi0kd85cq33ib412np5gf1rospqad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mediq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54675965409:android:849d75d15469f69b40bea0",
+        "android_client_info": {
+          "package_name": "com.example.omeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvriLvaSuJjhQThy8Wx0a1Q6g7ALNtBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54675965409-gvimi0kd85cq33ib412np5gf1rospqad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mediq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54675965409:android:dce0e1467d68551440bea0",
+        "android_client_info": {
+          "package_name": "com.example.omeo_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvriLvaSuJjhQThy8Wx0a1Q6g7ALNtBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54675965409-gvimi0kd85cq33ib412np5gf1rospqad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mediq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54675965409:android:67e5c81487ff382940bea0",
+        "android_client_info": {
+          "package_name": "com.medik.medik_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54675965409-e07tie2niguk5t6b6e18hjjcri0km468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medik.medik_partner",
+            "certificate_hash": "738af253c7e4bc7f5385e5fa1e7eafdfcb48d249"
+          }
+        },
+        {
+          "client_id": "54675965409-us6s3ro3bve1hcj34oofr44uhooq5e81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medik.medik_partner",
+            "certificate_hash": "f8f4dd1205c0067f0b06de76a176aee69934218f"
+          }
+        },
+        {
+          "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvriLvaSuJjhQThy8Wx0a1Q6g7ALNtBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54675965409-21e8eh99l87k0ngdc8i929831rvi7brp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54675965409-gvimi0kd85cq33ib412np5gf1rospqad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mediq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

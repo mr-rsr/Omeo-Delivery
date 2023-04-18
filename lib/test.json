@@ -1,0 +1,47 @@
+ {
+    "ordersList":[
+        {
+            "order":{
+                "address":{
+                    "address":"address",
+                    "addressId": "addressId",
+                "addresstitle":"address",
+                "addressTitle":"address",
+                "landmark":"landmark",
+                "location":"location"
+                },
+                
+                "associatedOrderId":"associatedOrderId",
+                "discount":10,
+                "endTime": null,
+                "fulfillCode":1,
+                "itemCount":1,
+                "orderId":"orderId",
+                "orderStatusCode":1,
+                "paymentMethod":"paymentMethod",
+                "prescriptionId":"",
+                "startTime": null,
+                "statusCode":3,
+                "timeStamp": 12323,
+                "totalAmount":100,
+                "userId":"userId"
+
+            }
+        ,
+            "retailerid":"retailerid",
+            "retialerlocation":"retailerName",
+            "updatedAt":1234
+        }],
+        
+       "status":1,
+       "timeLeft":0,
+       "timeStamp":1234,
+         "totalOrderValue":100,
+         "trackValue":1,
+         "userAddress":"userAddress",
+            "userId":"userId"
+
+
+        
+    
+ }
